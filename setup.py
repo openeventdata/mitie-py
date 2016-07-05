@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='mitie',
       version='0.1',
       author='John Beieler',
-      author_email='jbeieler@caerusassociates.com',
+      author_email='john.b30@gmail.com',
       packages=['mitie'],
       url='',
       license='LICENSE.txt',
